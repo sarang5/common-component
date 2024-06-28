@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_paypalcorp_common_components=self.webpackChunk_paypalcorp_common_components||[]).push([[269],{269:(n,o,t)=>{t.r(o),t.d(o,{default:()=>p});var e=t(318),c=t.n(e);const p=function(){return c().createElement("button",null,"Common Button")}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_paypalcorp_common_components=self.webpackChunk_paypalcorp_common_components||[]).push([[960],{960:(n,e,o)=>{o.r(e),o.d(e,{default:()=>a});var c=o(318),p=o.n(c);const a=function(){return p().createElement("h1",null,"Common Header")}}}]);
